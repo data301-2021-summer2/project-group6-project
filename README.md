@@ -1,4 +1,4 @@
-# Group 6 - Children's Challenges
+# Group 6 - Canadian Children's Challenges
 
 
 ## Milestones
