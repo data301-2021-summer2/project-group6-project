@@ -1,5 +1,5 @@
-# Group 6 - Canadian Children's Challenges
-
+# Group 6 - Sociological Factors and Income in the US
+# Started new dataset as recommended by prof!
 
 ## Milestones
 
