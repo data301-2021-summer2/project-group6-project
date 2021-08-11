@@ -1,5 +1,5 @@
 # Group 6 - Sociological Factors and Income in the US
-# Started new dataset as recommended by prof!
+# Started new dataset as recommended by prof! (FILE NOT REQUIRED TO BE UPDATED)
 
 ## Milestones
 
@@ -20,5 +20,4 @@ Valerie Arsenault: I'm a fourth year BA student with a major in Psych.
 
 ## References
 
-Statistics Canada. Table 13-10-0765-01  Functional difficulties for children aged 5 to 17 years, Canadian Health Survey on Children and Youth 2019
-DOI: https://doi.org/10.25318/1310076501-eng
+https://archive.ics.uci.edu/ml/datasets/adult
