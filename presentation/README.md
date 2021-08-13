@@ -1,1 +1,1 @@
-# Explainer/Presentation video [Click Here] {https://youtu.be/JDBNqxbwSmA} 
+# Explainer/Presentation video https://youtu.be/JDBNqxbwSmA 
